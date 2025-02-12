@@ -9,7 +9,7 @@
 - <b>Cargo Robot Mini ( IoT, Raspberry Pi, Flask Server, Wi-Fi, Cloud Integration)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Wall Follower Robot (PWM, M4 Cortex, IR Sensor)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]([https://github.com/joshmadakor1/Sentinel-Lab](https://github.com/Ricardo-Gallegos/wall-follower-bot))
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
