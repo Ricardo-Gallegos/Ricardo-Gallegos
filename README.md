@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ricardo! <br/><a href="https://github.com/joshmadakor1">Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Hardware Developer</a>, <a href="https://www.youtube.com/c/joshmadakor">Embedded Systems Specialist</a></h1>
+<h1>Hi, I'm Ricardo! <br/>Engineer,Hardware Developer,Embedded Systems Specialist</a></h1>
 
 <h2>👨‍💻 Embedded Systems Projects:</h2>
 
