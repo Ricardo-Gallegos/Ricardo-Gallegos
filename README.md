@@ -8,8 +8,6 @@
 - <b>Wall Follower Robot (PWM, M4 Cortex, IR Sensor)</b><br>
 - <b>Cargo Robot Mini ( IoT, Raspberry Pi, Flask Server, Wi-Fi, Cloud Integration)</b><br>
 - <b>FPGA Calculator (NEXYS A7-100t, Verilog)</b><br>
-  
-<h2>👨‍💻 Hardware Development Projects:</h2>
 - <b>DIY DJMAXRESPECT V ARCADE Controller for PS5/PS4 (patent pending)</b><br>
 - <b>DIY GUNDAM OPERATION V ARCADE Controller for PS5/PS4 (patent pending)</b><br>
 - <b>Cargo Robot Electromechanical System (Motor Control, Actuator Control, Scissor Jack System, Power Supply Design)</b><br>
