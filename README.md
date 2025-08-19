@@ -1,22 +1,14 @@
-<h1>Hi, I'm Ricardo! <br/>Engineer,Hardware Developer,Embedded Systems Specialist</a></h1>
+<h1>Hi, I'm Ricardo! <br/>Engineer, Hardware Developer, Embedded Systems Specialist</a></h1>
 
-<h2>👨‍💻 Embedded Systems Projects:</h2>
+<h2>👨‍💻 STM32 Embedded Systems Projects:</h2>
 
-- <b>DIY Drone(STM32F4, ESP32, MQTT, Voice Recognition, Wi-Fi, IoT, Wireless Communications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-  <b>DIY Drone Remote Controller ( IoT, Raspberry Pi, Flask Server, Wi-Fi, Cloud Integration)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  <b>DIY Drone Flight Controller ( IoT, Raspberry Pi, Flask Server, Wi-Fi, Cloud Integration)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>DIY Drone(STM32L476RG, NRF24L01 Receiver, DShot300, ESC, BLDC motors, DIY STM32 Flight Controller, 2200Mah 4S1P 14.8v 32.56Wh)</b>
+- <b>DIY Drone Remote Controller (STM32F466RE,NRF24L01+ Transmitter, Joystick Sensor Game Controllers, Tactile Push Buttons, OLED GUI, LEDs)</b>
+- <b>DIY Drone Flight Controller (STM32L476RG, ADXL345 IMU, NRF24L01 Receiver)</b>
 - <b>Wall Follower Robot (PWM, M4 Cortex, IR Sensor)</b>
 - <b>Cargo Robot Mini ( IoT, Raspberry Pi, Flask Server, Wi-Fi, Cloud Integration)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Ricardo-Gallegos/wall-follower-bot)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+
 - <b>FPGA Calculator (NEXYS A7-100t, Verilog)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
@@ -28,9 +20,7 @@
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Custom STM32 MicroController PCB (STM32F4, Altium Designer)</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+
 
 
 
