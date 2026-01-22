@@ -9,7 +9,8 @@
 - <b>Cargo Robot Electromechanical System <br>(Motor Control, Actuator Control, Scissor Jack System, Power Supply Design)(2024)</b><br><br>
 - <a href="https://github.com/Ricardo-Gallegos/FPGA-Calculator/blob/main/FPGA_CALCULATOR_Report.pdf"><b>FPGA Calculator</b></a><br><b> (NEXYS A7-100t, Verilog)(2023)</b><br><br>
 - <b>DIY DJMAXRESPECT V ARCADE Controller for PS5/PS4 <br>(2023)</b><br><br>
-- <b>Wall Follower Robot<br> (PWM, M4 Cortex, IR Sensor)(2023)</b><br><br>
+- <a href="https://github.com/Ricardo-Gallegos/wall-follower-bot/blob/main/README.md"><b>Wall Follower Robot<br></a>(PWM, M4 Cortex, IR Sensor)(2023)</b><br><br>
+
 
 
 
