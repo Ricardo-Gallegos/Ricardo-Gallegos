@@ -23,7 +23,7 @@
 (IoT, Raspberry Pi, Flask Server, Wi-Fi, Cloud Integration) (2024)</b>
 <br><br>
 
-<a href="https://github.com/Ricardo-Gallegos/TheRoadie/blob/main/ROADIES-main/ROADIES-main/README.md">
+<a href="https://github.com/Ricardo-Gallegos/TheRoadie/blob/main/README.md">
 <b>Cargo Robot Electromechanical System</b></a><br>
 (Motor Control, Actuator Control, Scissor Jack System, Power Supply Design) (2024)
 <br><br>
