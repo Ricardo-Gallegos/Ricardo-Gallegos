@@ -49,6 +49,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 Email: <b>rg6806@gmail.com<br></b>
-Discord: <b>ricardoG.1950</b>
+
 
 
