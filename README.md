@@ -35,7 +35,6 @@
 
 <a href="https://github.com/Ricardo-Gallegos/wall-follower-bot](https://github.com/Ricardo-Gallegos/DIY-DJMAX-RESPECT-V-Arcade-Controller-for-PS5-PS4-/blob/main/README.md">
 <b>DIY DJMAX RESPECT V Arcade Controller for PS5 / PS4 (2023)</b>
-
 <br><br>
 
 <a href="https://github.com/Ricardo-Gallegos/wall-follower-bot">
