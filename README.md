@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ricardo! <br/>Engineer, Hardware Developer, Embedded Systems Specialist</a></h1>
+<h1>Hi, I'm Ricardo! <br/>Embedded Systems Specialist</a></h1>
 
 <h2>👨‍💻 STM32 Embedded Systems Projects:</h2>
 
