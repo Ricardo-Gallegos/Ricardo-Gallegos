@@ -4,11 +4,11 @@
 
 <div>
 <b>DIY Drone<br>
-(STM32L476RG, NRF24L01 Receiver, DShot300, ESC, BLDC motors, DIY STM32 Flight Controller, 2200mAh 4S1P 14.8V 32.56Wh) (2025)</b>
+(STM32L476RG, NRF24L01 Receiver, DShot300, ESC, BLDC motors, DIY STM32 Flight Controller, 2200mAh 4S1P 14.8V 32.56Wh) (2026)</b>
 <br><br>
 
 <b>DIY Drone Remote Controller w/ GUI<br>
-(STM32F466RE, NRF24L01+ Transmitter, Joystick Controllers, OLED GUI, LEDs) (2025)</b>
+(STM32F466RE, NRF24L01+ Transmitter, Joystick Controllers, OLED GUI, LEDs) (2026)</b>
 <br><br>
 
 <b>DIY Drone Flight Controller<br>
